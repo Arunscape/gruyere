@@ -1,0 +1,4 @@
+create a user ../resources
+create a file named menubar.gtl
+
+[[include:menubar.gtl]]DoS[[/include:menubar.gtl]]
