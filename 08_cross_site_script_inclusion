@@ -1,0 +1,7 @@
+<script>
+function _feed(s) {
+  alert("Your private snippet is: " + s['private_snippet']);
+}
+</script>
+<script src="https://google-gruyere.appspot.com/632855091396679319166571144686279706399/feed.gtl"></script>
+
